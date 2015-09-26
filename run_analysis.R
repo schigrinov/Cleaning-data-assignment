@@ -1,4 +1,4 @@
-setwd("~/Sergey/Coursera/DataScience/Getting and cleaning data/Assignment/UCI HAR Dataset")
+setwd("~/Coursera/DataScience/Getting and cleaning data/Assignment/UCI HAR Dataset")
 #load test data
 subject_test = read.table("./test/subject_test.txt")
 X_test = read.table("./test/X_test.txt")
