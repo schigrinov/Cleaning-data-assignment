@@ -11,6 +11,7 @@ The dataset includes the following files:
 - 'test/X_test.txt': Test set.
 - 'test/y_test.txt': Test labels.
 
+Variables:
 
 - subject_test, X_test, Y_test, subject_train, X_train, Y_train - initial data, class - data.frame
 dim(subject_test)
