@@ -12,3 +12,5 @@ Theprocess is straithforward:
 - calculate the mean for each combination of activity and subject.
 
 Please see the code for the details
+
+© Sergey Chigrinov, 2015, free for all users
