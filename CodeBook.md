@@ -47,3 +47,4 @@ dim(result)
 dim(all.means)
 [1] 180  81
 
+© Sergey Chigrinov, 2015, free for all users
