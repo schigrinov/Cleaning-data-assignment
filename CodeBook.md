@@ -11,6 +11,9 @@ The dataset includes the following files:
 - 'test/X_test.txt': Test set.
 - 'test/y_test.txt': Test labels.
 
+for additional expalnation please see https://github.com/schigrinov/Cleaning-data-assignment/blob/master/README.md
+
+
 Variables:
 
 - subject_test, X_test, Y_test, subject_train, X_train, Y_train - initial data, class - data.frame
