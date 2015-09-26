@@ -8,7 +8,7 @@ Theprocess is straithforward:
 - merge initial variables, 
 - subset the initial variables to get mean and std data, 
 - assign convenient names to variables,
-- merge the data to get the tidy data,
+- merge the data to get tidy data,
 - calculate the mean for each combination of activity and subject.
 
 Please see the code for the details
